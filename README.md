@@ -33,7 +33,7 @@ Build a basic version of PayTM
 1. **Clone the repository:**
 
    ```bash
-   git clone https://https://github.com/MK1016o/paytm.git
+   git clone https://github.com/MK1016o/paytm.git
 
 2. **Navigate to the project directory:**
 
